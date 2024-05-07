@@ -10,7 +10,7 @@ I am a passionate ICT student at AUPP, driven by a curiosity for technology and 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,flutter,react,tailwind,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,flutter,react,tailwind,cpp,aws,mysql)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
